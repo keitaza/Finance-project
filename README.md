@@ -1,0 +1,1 @@
+Full DCF valuation model built on 5 years of financial statements (2016–2020). Includes income statement, balance sheet, free cash flow build-up (4-step method), WACC calculation using CAPM, and enterprise value derived via two methods — WACC-based DCF and APV/VPN with tax shield. Assumptions centralized for easy scenario analysis.
